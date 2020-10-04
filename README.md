@@ -7,6 +7,6 @@ Clone the repository to your own path.
 
 ```bash
 git clone https://github.com/JarvisTao/zsh.git ~/.config/zsh
-echo "source ~/.config/zsh/zshrc" ~/.zshrc
+echo "source ~/.config/zsh/zshrc" >> ~/.zshrc
 ```
 
