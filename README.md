@@ -5,3 +5,8 @@ The `Zsh` configuration path is in:
 
 Clone the repository to your own path.
 
+```bash
+git clone https://github.com/JarvisTao/zsh.git ~/.config/
+echo "source ~/.config/zsh" ~/.zshrc
+```
+
